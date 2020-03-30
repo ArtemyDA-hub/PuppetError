@@ -1,0 +1,3 @@
+0x0001 2020-03-29T07:15:33UTC 2025-03-29T07:15:33UTC /CN=Puppet CA: puppet.office.reliab.tech
+0x0002 2020-03-29T07:15:36UTC 2025-03-29T07:15:36UTC /CN=puppet.office.reliab.tech
+0x0003 2020-03-29T08:10:39UTC 2025-03-29T08:10:39UTC /CN=ubunta02.office.reliab.tech
